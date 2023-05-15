@@ -11,4 +11,4 @@ Mon rôle à été de programmer un jeu en C# et d'intégrer des assets sur Unit
 [![My Image](https://i.imgur.com/XHXMxmM.jpg)](https://www.youtube.com/watch?v=mSbqsa4LgJ0&t=198s)
 
 # Build:
-https://github.com/Sahurows/EscapeHero/releases/tag/Game
+https://github.com/Sahurows/Cave-Stone-Game/releases/tag/Game
